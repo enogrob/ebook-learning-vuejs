@@ -17,8 +17,8 @@ Learn everything you need to about the subject of this `eBook` project.
 ## Topics
 ```
 1: GOING SHOPPING WITH VUE.JS
-[ ] Buzzwords
-[ ] Vue.js history
+[x] Buzzwords
+[x] Vue.js history
 [ ] The most important thing about Vue.js
 [ ] Let's go shopping!
 [ ] Using Vue.js in an existing project
