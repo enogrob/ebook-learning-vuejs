@@ -20,7 +20,7 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] Buzzwords
 [x] Vue.js history
 [x] The most important thing about Vue.js
-[ ] Let's go shopping!
+[~] Let's go shopping!
 [ ] Using Vue.js in an existing project
 [ ] Vue.js 2.0!
 [ ] Projects using Vue.js
